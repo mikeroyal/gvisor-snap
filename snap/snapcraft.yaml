@@ -17,7 +17,6 @@ apps:
   gvisor:
     command: bin/gvisor
     plugs:
-      - docker
       - home
       - network
       - removable-media
