@@ -2,7 +2,7 @@ name: gvisor
 summary: a Container Runtime Sandbox.
 description: gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
   
-adopt-info: faas-cli
+adopt-info: gvisor
 
 grade: stable
 confinement: strict
